@@ -1,12 +1,15 @@
 # Clustering (Segmentation)
+Data Segmentation is the process of taking the data you hold and dividing it up and grouping similar data together based on the chosen parameters so that you can use it more efficiently within marketing and operations.
 
-## Travail à faire :
+## Why is Data Segmentation important?
 
-> - Appliquer plusieurs algorithmes de bruitage sur une image de votre choix.
-> - Appliquer un filtre sur chaque résultat obtenue.
-> - Appliquer la méthode de Cluserting devotre choix sur toutes les images.
-> - Comparer les résultats.
+The key benefits of Data Segmentation are:
 
-###### Compte rendu :
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FirasFekih/TPs_DataMining_3DNI2/main?labpath=clustering.ipynb)
+    > You will be able create messaging that is tailored and sophisticated to suit your target market – appealing to their needs better.
+    It allows you to easier conduct an analysis of your data stored in your database, helping to identify potential opportunities and challenges based within it.
+    Enables you to mass-personalise your marketing communications, reducing costs.
+    
+## difference between classification and clustering :
+      <u> Classification : </u> This technique classifies the new observation into one of already defined classes.
+      however <u> Clustering : </u> This technique maps the data into one of the existing clusters where the data points are arranged based on the similarities between them.
+    
